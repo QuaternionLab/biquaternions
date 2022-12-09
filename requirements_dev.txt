@@ -1,0 +1,5 @@
+pip==19.0.3
+wheel==0.33.1
+numpy==1.23.5
+pyquaternion==0.9.9
+twine==1.13.0
