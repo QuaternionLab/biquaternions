@@ -841,6 +841,8 @@ class hyperbolic_Quaternion: # <--- Класс дуальных кватерни
             if i == 3:
                 return self.d
 
+'''
+Example for use
 a = hyperbolic_Num(1,4)
 b = hyperbolic_Num([2,3])
 c = hyperbolic_Num(3,2)
@@ -868,3 +870,4 @@ print("v1*v2 = ", v1*v2)
 print("v1*2 = ", v1*2)
 print("v1 + ", v1+2)
 print("|v1| = ", abs(v1))
+'''
